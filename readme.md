@@ -20,7 +20,7 @@ if you need to a set a local env.
 ### Setting Up Golang 
 
 ``` 
-go mod initmod init github.com/ralaruri/repo
+go mod init github.com/ralaruri/repo
 ```
 
 
